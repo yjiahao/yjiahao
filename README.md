@@ -16,6 +16,7 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-ff9100?style=flat-square&logo=TensorFlow&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"/>
+<img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/>
 </p>
 
 ### Let's Connect!
