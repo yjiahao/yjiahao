@@ -18,7 +18,7 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"/>
 <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/>
 <img alt="LangChain" src="https://img.shields.io/badge/-🦜LangChain-abdbe3?style=flat-square&logo=LangChain&logoColor=white" />
-<img alt="FastAPI" src="https://img.shields.io/badge/fastapi?style=flat-square&logo=fastapi&logoColor=white" />
+<!-- <img alt="FastAPI" src="https://img.shields.io/badge/fastapi?style=flat-square&logo=fastapi&logoColor=white" /> -->
 </p>
 
 ### Let's Connect!
