@@ -14,10 +14,19 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=PyTorch&logoColor=white" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-ff9100?style=flat-square&logo=TensorFlow&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"/>
 <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/>
+<img alt="vLLM" src="https://img.shields.io/badge/vLLM-1f77b4?style=flat-square&color=1f77b4&">
 <img alt="LangChain" src="https://img.shields.io/badge/-🦜LangChain-abdbe3?style=flat-square&logo=LangChain&logoColor=white" />
+<img alt="Transformers" src="https://img.shields.io/badge/Transformers-2980b9?style=flat-square&logo=Transformers&logoColor=white" />
+<img alt="SentenceTransformers" src="https://img.shields.io/badge/-SentenceTransformers-2980b9?style=flat-square&logo=SentenceTransformers&logoColor=white" />
+<img alt="FlashRank" src="https://img.shields.io/badge/Flashrank-yellow?style=flat-square&color=darkgreen&logo=flashrank" alt="Flashrank">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white&color=009485" alt="FastAPI">
+<img alt="Flask" src="https://img.shields.io/badge/Flask-009485?style=flat-square&color=000000&logo=flask&logoColor=white" alt="Flask">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB">
+
+
 <!-- <img alt="FastAPI" src="https://img.shields.io/badge/fastapi?style=flat-square&logo=fastapi&logoColor=white" /> -->
 </p>
 
