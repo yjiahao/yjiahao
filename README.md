@@ -25,6 +25,7 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white&color=009485" alt="FastAPI">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-009485?style=flat-square&color=000000&logo=flask&logoColor=white" alt="Flask">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&color=47A248" alt="MongoDB">
+<img src="https://img.shields.io/badge/Gradio-ff9100?style=flat-square&logo=gradio&logoColor=black&color=ff9100" alt="Gradio">
 </p>
 
 ### Let's Connect!
